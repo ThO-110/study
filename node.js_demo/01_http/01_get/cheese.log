@@ -1,0 +1,11 @@
+[2021-04-03T01:14:52.508] [DEBUG] cheese - username=thomas&password=123
+[2021-04-03T01:17:24.727] [DEBUG] cheese - 
+[2021-04-03T01:17:24.964] [DEBUG] cheese - 
+[2021-04-03T01:17:32.282] [DEBUG] cheese - username=thomas&password=123
+[2021-04-03T01:17:42.559] [DEBUG] cheese - 
+[2021-04-03T01:17:42.760] [DEBUG] cheese - 
+[2021-04-03T02:19:34.818] [DEBUG] cheese - {"province":"上海","city":"上海","district":"宝山区","address":"同济支路199号智慧七立方3号楼2-4层","latitude":"43","longitude":"160","message":"求购一条小鱼","contact":"13666666","type":"sell","time":"1571217561"}
+[2021-04-03T02:20:23.741] [DEBUG] cheese - {"province":"上海","city":"上海","district":"宝山区","address":"同济支路199号智慧七立方3号楼2-4层","latitude":"43","longitude":"160","message":"求购一条小鱼","contact":"13666666","type":"sell","time":"1571217561"}
+[2021-04-03T02:22:34.760] [DEBUG] cheese - {"province":"上海","city":"上海","district":"宝山区","address":"同济支路199号智慧七立方3号楼2-4层","latitude":"43","longitude":"160","message":"求购一条小鱼","contact":"13666666","type":"sell","time":"1571217561"}
+[2021-04-03T02:23:35.564] [DEBUG] cheese - {"province":"上海","city":"上海","district":"宝山区","address":"同济支路199号智慧七立方3号楼2-4层","latitude":"43","longitude":"160","message":"求购一条小鱼","contact":"13666666","type":"sell","time":"1571217561"}
+[2021-04-11T08:55:53.965] [DEBUG] cheese - {}
